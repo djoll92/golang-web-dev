@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f738305-77a5-449c-b57f-6e8652ac3138" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1SImnhmMJuSvWiNRc5Dw6UU3ycw" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/005_data-sturctures/04_slice-struct" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\01_slice\01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\04_slice-struct" />
+      <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\02_map\02_variable" />
+      <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\02_map\01" />
+      <recent name="C:\Users\Admin\go\src\golang-web-dev\002_parse_execute\05_performant-parsing_func-init\templates" />
+      <recent name="C:\Users\Admin\go\src\golang-web-dev\002_parse_execute\04_ParseGlob\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build golang-web-dev/005_data-sturctures/01_slice">
+    <configuration name="go build golang-web-dev/001_string-to-html/03_os-Args" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-web-dev" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/001_string-to-html/03_os-Args/main.go" />
+      <package value="golang-web-dev/001_string-to-html/03_os-Args" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build golang-web-dev/002_parse_execute/01_stdout" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-web-dev" />
+      <working_directory value="$PROJECT_DIR$/002_parse_execute/01_stdout" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/002_parse_execute/01_stdout/main.go" />
+      <package value="golang-web-dev/002_parse_execute/01_stdout" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build golang-web-dev/004_variable" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-web-dev" />
+      <working_directory value="$PROJECT_DIR$/004_variable" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/004_variable/main.go" />
+      <package value="golang-web-dev/004_variable" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build golang-web-dev/005_data-sturctures/01_slice" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-web-dev" />
+      <working_directory value="$PROJECT_DIR$/005_data-sturctures/01_slice" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/005_data-sturctures/01_slice/main.go" />
+      <package value="golang-web-dev/005_data-sturctures/01_slice" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang-web-dev" />
+      <working_directory value="$PROJECT_DIR$/002_parse_execute/02_file" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/002_parse_execute/02_file/main.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build golang-web-dev/001_string-to-html/03_os-Args" />
+      <item itemvalue="Go Build.go build golang-web-dev/002_parse_execute/01_stdout" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build golang-web-dev/004_variable" />
+      <item itemvalue="Go Build.go build golang-web-dev/005_data-sturctures/01_slice" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build golang-web-dev/005_data-sturctures/01_slice" />
+        <item itemvalue="Go Build.go build golang-web-dev/004_variable" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build golang-web-dev/002_parse_execute/01_stdout" />
+        <item itemvalue="Go Build.go build golang-web-dev/001_string-to-html/03_os-Args" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
