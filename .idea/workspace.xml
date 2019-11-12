@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f738305-77a5-449c-b57f-6e8652ac3138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/007_predefined-global-functions/01_index/01/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_predefined-global-functions/01_index/01/tpl.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_predefined-global-functions/01_index/02/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_predefined-global-functions/01_index/02/tpl.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_predefined-global-functions/02_and/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_predefined-global-functions/02_and/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007_predefined-global-functions/03_comparison/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007_predefined-global-functions/03_comparison/tpl.gohtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
