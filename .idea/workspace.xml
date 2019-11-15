@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f738305-77a5-449c-b57f-6e8652ac3138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/007_predefined-global-functions/03_comparison/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_predefined-global-functions/03_comparison/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/01_data-to-template/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/01_data-to-template/templates/define-is-whats-called.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/01_data-to-template/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/02_nested-templates/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/02_nested-templates/templates/define-is-whats-called.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/02_nested-templates/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/03_define-template/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/03_define-template/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/03_define-template/templates/btf.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/03_define-template/templates/header.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/03_define-template/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_nested-templates/03_define-template/templates/svgs.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009_composition/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009_composition/01/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009_composition/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009_composition/02/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009_composition/03/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009_composition/03/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009_composition/04/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009_composition/04/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010_understanding-TCP-servers/01_write/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010_understanding-TCP-servers/02_read/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,19 +52,21 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/005_data-sturctures/04_slice-struct" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/008_nested-templates" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\01_slice\01" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/008_nested-templates" />
       <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\04_slice-struct" />
       <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\02_map\02_variable" />
       <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\02_map\01" />
       <recent name="C:\Users\Admin\go\src\golang-web-dev\002_parse_execute\05_performant-parsing_func-init\templates" />
-      <recent name="C:\Users\Admin\go\src\golang-web-dev\002_parse_execute\04_ParseGlob\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/008_nested-templates/01_nested-templates/templates" />
+      <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\01_slice\01" />
     </key>
   </component>
   <component name="RunDashboard">
