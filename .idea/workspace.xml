@@ -2,22 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f738305-77a5-449c-b57f-6e8652ac3138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/01_Handler/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/02_ListenAndServe/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/03_Request/01_ParseForm_Form/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/03_Request/01_ParseForm_Form/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/03_Request/02_Method/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/03_Request/02_Method/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/03_Request/03_URL/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/03_Request/03_URL/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/03_Request/04_Header/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/03_Request/04_Header/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/03_Request/05_Host_ContentLength/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/03_Request/05_Host_ContentLength/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_understanding-net-http-package/04_ResponseWriter/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/01_routing/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/02_NewServerMux/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/03_DefaultServeMux/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/04_hands-on/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/04_hands-on/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/04_hands-on/02/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/04_hands-on/03/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/04_hands-on/03/tpl.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/05_hands-on-2/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/05_hands-on-2/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/05_hands-on-2/03/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/05_hands-on-2/04/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/05_hands-on-2/05/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/05_hands-on-2/06/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/05_hands-on-2/07/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/05_hands-on-2/08/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013_understanding-net-http-ServeMux/05_hands-on-2/09/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/01_not-serving/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/01_not-serving/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/01_not-serving/02/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/01_io-Copy/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/01_io-Copy/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/02_ServeContent/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/02_ServeContent/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/03_ServeFile/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/03_ServeFile/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/01/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/02/assets/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/03/assets/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/03/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/assets/css/mcleod-reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/assets/css/mq_800-plus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/assets/img/background-photo-mobile-devices.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/assets/img/background-photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/assets/img/svg/briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/assets/img/svg/gear.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/assets/img/svg/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/assets/img/svg/pencil.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/assets/img/svg/universal-access.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/02_serving/04_FileServer/04_static/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/01/dog.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/01/toby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/02/starting-files/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/02/starting-files/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/02/starting-files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/02/starting-files/pic/surf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/03/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/03/public/pics/dog.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/03/public/pics/dog1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/03/public/pics/dog2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/03/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/04/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/04/public/pics/dog.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/04/public/pics/dog1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/04/public/pics/dog2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/04/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/05/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/05/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/05/public/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/05/public/pic/surf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/05/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/06/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/06/templates/about.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/06/templates/apply.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/06/templates/applyProcess.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/06/templates/contact.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014_serving-files/03_hands-on/06/templates/index.gohtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,21 +100,23 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/013_understanding-net-http-ServeMux" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/014_serving-files/03_hands-on/06" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/014_serving-files/03_hands-on/03" />
+      <recent name="$PROJECT_DIR$/014_serving-files/01_not-serving/01" />
       <recent name="$PROJECT_DIR$/008_nested-templates/01_nested-templates/templates" />
       <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\01_slice\01" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/013_understanding-net-http-ServeMux" />
-      <recent name="$PROJECT_DIR$/012_understanding-net-http-package/03_Request" />
-      <recent name="$PROJECT_DIR$/012_understanding-net-http-package/03_Request/02_Method" />
-      <recent name="$PROJECT_DIR$/012_understanding-net-http-package/02_ListenAndServe" />
-      <recent name="$PROJECT_DIR$/011_building-a-tcp-server-for-http" />
+      <recent name="$PROJECT_DIR$/014_serving-files/03_hands-on/06" />
+      <recent name="$PROJECT_DIR$/014_serving-files/03_hands-on/05" />
+      <recent name="$PROJECT_DIR$/014_serving-files/03_hands-on/04" />
+      <recent name="$PROJECT_DIR$/014_serving-files/03_hands-on/03" />
+      <recent name="$PROJECT_DIR$/014_serving-files/03_hands-on/02" />
     </key>
   </component>
   <component name="RunDashboard">
