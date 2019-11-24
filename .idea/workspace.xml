@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f738305-77a5-449c-b57f-6e8652ac3138" name="Default Changelist" comment="-">
-      <change afterPath="$PROJECT_DIR$/015_NotFoundHandler/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/01_url/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/02_form-post/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/03_form-get/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/04_form/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/04_form/templates/footer.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/04_form/templates/header.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/04_form/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/05_form-file/01_read/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/05_form-file/01_read/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/05_form-file/02_store/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/05_form-file/02_store/templates/footer.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/05_form-file/02_store/templates/header.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/05_form-file/02_store/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016_passing-data/05_form-file/02_store/user/empty.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_redirect/01_303-SeeOther/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_redirect/01_303-SeeOther/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_redirect/02_307-TemporaryRedirect/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_redirect/02_307-TemporaryRedirect/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017_redirect/03_301-MovedPremanently/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/018_cookies/01/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/018_cookies/02_multiple/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/018_cookies/03_hands-on/main.go" afterDir="false" />
+    <list default="true" id="8f738305-77a5-449c-b57f-6e8652ac3138" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/019_sessions/01_uuid/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +33,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/018_cookies" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
