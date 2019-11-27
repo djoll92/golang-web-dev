@@ -2,7 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f738305-77a5-449c-b57f-6e8652ac3138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/019_sessions/01_uuid/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/02_session/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/02_session/templates/bar.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/02_session/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/03_signup/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/03_signup/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/03_signup/templates/bar.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/03_signup/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/03_signup/templates/signup.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/04_bcrypt/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/04_bcrypt/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/04_bcrypt/templates/bar.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/04_bcrypt/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/04_bcrypt/templates/signup.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/templates/bar.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/templates/login.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/templates/signup.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/templates/bar.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/templates/login.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/templates/signup.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/templates/bar.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/templates/login.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/templates/signup.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/templates/bar.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/templates/login.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/templates/signup.gohtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,6 +50,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Go File" />
         <option value="Go Application" />
       </list>
     </option>
@@ -31,23 +68,24 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/018_cookies" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/019_sessions" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/019_sessions" />
+      <recent name="$PROJECT_DIR$/019_sessions/02_session/templates" />
+      <recent name="$PROJECT_DIR$/018_cookies" />
+      <recent name="$PROJECT_DIR$/017_redirect" />
+      <recent name="$PROJECT_DIR$/016_passing-data/05_form-file/02_store/templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/019_sessions/03_signup" />
       <recent name="$PROJECT_DIR$/014_serving-files/03_hands-on/03" />
       <recent name="$PROJECT_DIR$/014_serving-files/01_not-serving/01" />
       <recent name="$PROJECT_DIR$/008_nested-templates/01_nested-templates/templates" />
       <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\01_slice\01" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/018_cookies" />
-      <recent name="$PROJECT_DIR$/017_redirect" />
-      <recent name="$PROJECT_DIR$/016_passing-data/05_form-file/02_store/templates" />
-      <recent name="$PROJECT_DIR$/016_passing-data" />
-      <recent name="$PROJECT_DIR$/014_serving-files/03_hands-on/06" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,13 +100,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build golang-web-dev/005_data-sturctures/01_slice">
-    <configuration name="go build golang-web-dev/001_string-to-html/03_os-Args" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 03_signup/">
+    <configuration name="go build 03_signup/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golang-web-dev" />
       <working_directory value="$PROJECT_DIR$/" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/001_string-to-html/03_os-Args/main.go" />
-      <package value="golang-web-dev/001_string-to-html/03_os-Args" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$/019_sessions/03_signup" />
       <method v="2" />
     </configuration>
     <configuration name="go build golang-web-dev/002_parse_execute/01_stdout" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -103,19 +140,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build golang-web-dev/001_string-to-html/03_os-Args" />
       <item itemvalue="Go Build.go build golang-web-dev/002_parse_execute/01_stdout" />
       <item itemvalue="Go Build.go build main.go" />
       <item itemvalue="Go Build.go build golang-web-dev/004_variable" />
       <item itemvalue="Go Build.go build golang-web-dev/005_data-sturctures/01_slice" />
+      <item itemvalue="Go Build.go build 03_signup/" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 03_signup/" />
         <item itemvalue="Go Build.go build golang-web-dev/005_data-sturctures/01_slice" />
         <item itemvalue="Go Build.go build golang-web-dev/004_variable" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build golang-web-dev/002_parse_execute/01_stdout" />
-        <item itemvalue="Go Build.go build golang-web-dev/001_string-to-html/03_os-Args" />
       </list>
     </recent_temporary>
   </component>
