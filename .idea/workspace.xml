@@ -2,56 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f738305-77a5-449c-b57f-6e8652ac3138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/019_sessions/02_session/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/02_session/templates/bar.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/02_session/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/03_signup/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/03_signup/session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/03_signup/templates/bar.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/03_signup/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/03_signup/templates/signup.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/04_bcrypt/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/04_bcrypt/session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/04_bcrypt/templates/bar.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/04_bcrypt/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/04_bcrypt/templates/signup.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/templates/bar.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/templates/login.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/05_login/templates/signup.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/templates/bar.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/templates/login.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/06_logout/templates/signup.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/templates/bar.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/templates/login.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/07_permissions/templates/signup.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/templates/bar.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/templates/index.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/templates/login.gohtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019_sessions/08_expire-session/templates/signup.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020_aws-ec2/01_expire-session/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020_aws-ec2/01_expire-session/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020_aws-ec2/01_expire-session/templates/bar.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020_aws-ec2/01_expire-session/templates/index.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020_aws-ec2/01_expire-session/templates/login.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020_aws-ec2/01_expire-session/templates/signup.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/021_rdbms/01_connect/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/021_rdbms/02_SQL/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/01_julienschmidt-router/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/02_json/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/02_json/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/03_post-delete/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/03_post-delete/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/04_controllers/controllers/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/04_controllers/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/04_controllers/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/01_update-user-controller/controllers/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/01_update-user-controller/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/01_update-user-controller/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/02_update-user-model/controllers/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/02_update-user-model/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/02_update-user-model/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/03_update-user-controllers-post/controllers/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/03_update-user-controllers-post/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/03_update-user-controllers-post/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/04_update-user-controllers-get/controllers/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/04_update-user-controllers-get/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/04_update-user-controllers-get/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/05_update-user-controllers-delete/controllers/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/05_update-user-controllers-delete/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/05_mongodb/05_update-user-controllers-delete/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/06_hands-on/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/06_hands-on/starting-code/controllers/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/06_hands-on/starting-code/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/022_monogdb/06_hands-on/starting-code/models/user.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="Go Application" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
@@ -60,25 +73,32 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SImnhmMJuSvWiNRc5Dw6UU3ycw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="DatabaseDriversLRU" value="mysql.8" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="GO_FMT" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/019_sessions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/022_monogdb" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/019_sessions" />
-      <recent name="$PROJECT_DIR$/019_sessions/02_session/templates" />
-      <recent name="$PROJECT_DIR$/018_cookies" />
-      <recent name="$PROJECT_DIR$/017_redirect" />
-      <recent name="$PROJECT_DIR$/016_passing-data/05_form-file/02_store/templates" />
+      <recent name="$PROJECT_DIR$/022_monogdb" />
+      <recent name="$PROJECT_DIR$/022_monogdb/05_mongodb" />
+      <recent name="$PROJECT_DIR$/022_monogdb/05_mongodb/01_update-user-controller" />
+      <recent name="$PROJECT_DIR$/022_monogdb/02_json" />
+      <recent name="$PROJECT_DIR$/021_rdbms" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/019_sessions/03_signup" />
@@ -87,18 +107,6 @@
       <recent name="$PROJECT_DIR$/008_nested-templates/01_nested-templates/templates" />
       <recent name="C:\Users\Admin\go\src\golang-web-dev\005_data-sturctures\01_slice\01" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Go Build.go build 03_signup/">
     <configuration name="go build 03_signup/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -155,6 +163,18 @@
         <item itemvalue="Go Build.go build golang-web-dev/002_parse_execute/01_stdout" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
